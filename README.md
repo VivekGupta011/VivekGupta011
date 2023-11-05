@@ -8,6 +8,13 @@
 
 <h3 align="center" style="color: white;">Constantly challenging myself with LeetCode's toughest problems to sharpen my problem-solving skills and level up as a software engineer #DSA.</h3>
 
+<style>
+  /* Additional CSS for explicit white text color */
+  h1, h3 {
+    color: white;
+  }
+</style>
+
 <br>
 
 <p align="center">
