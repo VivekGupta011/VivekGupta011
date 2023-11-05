@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vivek Gupta</h1>
-<h3 align="center">Passionate Software Engineer</h3>
-<h3 align="center">Dedicated to crafting elegant code and building innovative solutions.</h3>
+<h3 align="center"><strong>Passionate Software Engineer</strong></h3>
+<h3 align="center"><strong>Dedicated to crafting elegant code and building innovative solutions.</strong></h3>
 
 
-<h3 align="center">Constantly challenging myself with LeetCode's toughest problems to sharpen my problem-solving skills and level up as a software engineer #DSA.</h3>
+<h3 align="center"><strong>Constantly challenging myself with LeetCode's toughest problems to sharpen my problem-solving skills and level up as a software engineer #DSA.</strong></h3>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivekgupta011&show_icons=true&locale=en&layout=compact" alt="vivekgupta011" /></p>
 
