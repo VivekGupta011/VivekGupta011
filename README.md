@@ -9,6 +9,6 @@
   <strong>❤️ Dedicated to crafting elegant code and building innovative solutions.</strong>
 </p>
 <p align="left">
-  <strong>![Alt text](image.png)Constantly challenging myself with LeetCode's toughest problems to sharpen my problem-solving skills and level up as a software engineer #DSA.</strong>
+  <strong>🌱Constantly challenging myself with LeetCode's toughest problems to sharpen my problem-solving skills and level up as a software engineer #DSA.</strong>
 </p>
 
